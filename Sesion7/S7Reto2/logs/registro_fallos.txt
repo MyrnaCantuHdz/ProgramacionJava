@@ -1,0 +1,2 @@
+⛔ Error al procesar errores.log:
+logs\errores.log
